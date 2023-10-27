@@ -1,6 +1,8 @@
 - Hi, I’m @Willow-DataWitch.
 - I do data engineering.
 - I coach teams on mob programming.
+- I'm a woman.
+- I'm trans.
 - I automate stuff.
   - Unit tests,
   - Data loads,
